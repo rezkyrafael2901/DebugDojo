@@ -4,6 +4,8 @@
 
 **DebugDojo** is a gamified AI debugging mentor powered by Xiaomi MiMo V2.5 Pro. It turns coding practice into a closed-loop learning system where developers generate realistic missions, solve them, receive AI judging, and level up through XP, ranks, and achievements.
 
+Live demo: https://debug-dojo.vercel.app/
+
 The project solves a simple but important problem: developers often need consistent practice with debugging, refactoring, test writing, and explanation skills, but high-quality mentorship and code review are not always available. DebugDojo makes that practice interactive, personalized, and repeatable.
 
 ---

@@ -7,6 +7,10 @@ Generate realistic bug missions, solve them, get AI judging, and level up your d
 </p>
 
 <p align="center">
+  🚀 <strong>Live Demo:</strong> <a href="https://debug-dojo.vercel.app/">https://debug-dojo.vercel.app/</a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/NEXT.JS-14-black?style=flat-square&logo=next.js" />
   <img src="https://img.shields.io/badge/TYPESCRIPT-5-3178C6?style=flat-square&logo=typescript" />
   <img src="https://img.shields.io/badge/AI_ENGINE-MiMo_V2.5_Pro-FF6900?style=flat-square&logo=xiaomi" />
